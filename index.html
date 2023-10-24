@@ -1,48 +1,20 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>Book Catalog</title>
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Book Search</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 </head>
 <body>
-  <header class="bg-primary text-light text-center py-4">
-    <h1>Book Catalog</h1>
-  </header>
-  <nav class="navbar navbar-expand-lg navbar-light bg-light">
-    <a class="navbar-brand" href="#">Home</a>
-  </nav>
-  <div class="container mt-4">
-    <div class="form-group">
-      <input type="text" id="searchInput" placeholder="Search for a book" class="form-control">
+    <div class="container mt-5">
+        <h1>Book catalogue</h1>
+        <input type="text" id="searchInput" class="form-control" placeholder="Search for a book...">
+        <button class="btn btn-primary mt-2" id="searchButton">Search</button>
     </div>
-    <div class="row" id="bookList">
-      <!-- Book listings will be displayed here -->
+    <div class="container mt-3" id="results">
     </div>
-  </div>
 
-  <!-- Bootstrap Modal for Book Details -->
-  <div class="modal fade" id="bookDetailsModal" tabindex="-1" role="dialog" aria-labelledby="bookDetailsModalLabel" aria-hidden="true">
-    <div class="modal-dialog" role="document">
-      <div class="modal-content">
-        <div class="modal-header">
-          <h5 class="modal-title" id="bookDetailsModalLabel">Book Details</h5>
-          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-            <span aria-hidden="true">&times;</span>
-          </button>
-        </div>
-        <div class="modal-body" id="modalBookDetails">
-          <!-- Book details will be displayed here -->
-        </div>
-        <div class="modal-footer">
-          <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
-  <script src="index.js"></script>
+    <script src="js/index.js"></script>
 </body>
 </html>
