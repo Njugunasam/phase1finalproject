@@ -4,104 +4,63 @@
       {
         "id": "1",
         "author": "Giovanni Boccaccio",
-        "country": "Italy",
-        "imageLink": "images/the-decameron.jpg",
-        "language": "Italian",
-        "pages": 1024, 
-        "title": "The Decameron", 
-        "year": 1351 
+        "imageLink": "https://i.imgur.com/fQQ36GI.jpeg", 
+        "title": "The Decameron" 
       },
       {
         "id": "2",
         "author": "Samuel Beckett", 
-        "country": "Republic of Ireland",
-        "imageLink": "images/molloy-malone-dies-the-unnamable.jpg",
-        "language": "French, English",
-        "pages": 256, 
-        "title": "Molloy, Malone Dies, The Unnamable, the trilogy", 
-        "year": 1952
+        "imageLink": "https://m.media-amazon.com/images/I/41F61GM4VZL._SY385_.jpg", 
+        "title": "Molloy, Malone Dies, The Unnamable, the trilogy"
       },
       {
         "id": "3",
         "author": "Dante Alighieri",
-        "country": "Italy",
-        "imageLink": "images/the-divine-comedy.jpg",
-        "language": "Italian",
-        "pages": 928, 
-        "title": "The Divine Comedy",
-        "year": 1315   
+        "imageLink": "https://i.imgur.com/SBck7A5.jpeg", 
+        "title": "The Divine Comedy"  
       },
       {
         "id": "4",
         "author": "Hans Christian Andersen", 
-        "country": "Denmark",
-        "imageLink": "images/fairy-tales.jpg",
-        "language": "Danish",
-        "pages": 784,
-        "title": "Fairy tales",  
-        "year": 18
+        "imageLink": "https://i.imgur.com/kampTc9.jpeg",
+        "title": "Fairy tales"
       },
       {
         "id": "5",
         "author": "Giovanni Boccaccio",
-        "country": "Italy",
-        "imageLink": "images/the-decameron.jpg",
-        "language": "Italian",
-        "pages": 1024, 
-        "title": "The Decameron", 
-        "year": 1351 
+        "imageLink": "https://i.imgur.com/Rt9dcmH.mp4",
+        "title": "The Decameron"
        
       },
       {
         "id": "6",
-        "author": "Hans Christian Andersen", 
-        "country": "Denmark",
-        "imageLink": "images/fairy-tales.jpg",
-        "language": "Danish",
-        "pages": 784,
-        "title": "Fairy tales",  
-        "year": 18
+        "author": "Hans Christian Andersen",
+        "imageLink": "https://i.imgur.com/kampTc9.jpeg",
+        "title": "Fairy tales"
       },
       {
         "id": "7",
         "author": "Hans Christian Andersen", 
-        "country": "Denmark",
-        "imageLink": "images/fairy-tales.jpg",
-        "language": "Danish",
-        "pages": 784,
-        "title": "Fairy tales",  
-        "year": 18
+        "imageLink": "https://i.imgur.com/P795i74.png",
+        "title": "Fairy tales"
       },
       {
         "id": "8",
         "author": "Samuel Beckett", 
         "country": "Republic of Ireland",
-        "imageLink": "images/molloy-malone-dies-the-unnamable.jpg",
-        "language": "French, English",
-        "pages": 256, 
-        "title": "Molloy, Malone Dies, The Unnamable, the trilogy", 
-        "year": 1952
+        "imageLink": "https://i.imgur.com/7XMoGFl.gif",
+        "title": "Molloy, Malone Dies, The Unnamable, the trilogy"
       },
       {
         "id": "9",
         "author": "Giovanni Boccaccio",
-        "country": "Italy",
-        "imageLink": "images/the-decameron.jpg",
-        "language": "Italian",
-        "pages": 1024, 
-        "title": "The Decameron", 
-        "year": 1351 
+        "imageLink": "https://i.imgur.com/kampTc9.jpeg",
+        "title": "The Decameron"
       },
       {
         "id": "10",
         "author": "Walt Whitman", 
-        "country": "United States",
-        "imageLink": "images/leaves-of-grass.jpg", 
-        "language": "English",
-        "pages": 152,
-        "title": "Leaves of Grass", 
-        "year": 1855    
-                         
+        "imageLink": "https://i.imgur.com/2MuTWFy.jpeg"         
       }
 
     ]
