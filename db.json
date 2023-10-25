@@ -4,31 +4,36 @@
       {
         "id": "1",
         "author": "Giovanni Boccaccio",
-        "imageLink": "https://i.imgur.com/fQQ36GI.jpeg", 
+        "imageLink": "https://i.imgur.com/fQQ36GI.jpeg",
+        "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n",    
         "title": "The Decameron" 
       },
       {
         "id": "2",
         "author": "Samuel Beckett", 
-        "imageLink": "https://m.media-amazon.com/images/I/41F61GM4VZL._SY385_.jpg", 
+        "imageLink": "https://m.media-amazon.com/images/I/41F61GM4VZL._SY385_.jpg",
+        "link": "https://en.wikipedia.org/wiki/Love_in_the_Time_of_Cholera\n",  
         "title": "Molloy, Malone Dies, The Unnamable, the trilogy"
       },
       {
         "id": "3",
         "author": "Dante Alighieri",
-        "imageLink": "https://i.imgur.com/SBck7A5.jpeg", 
+        "imageLink": "https://i.imgur.com/SBck7A5.jpeg",
+        "link": "https://en.wikipedia.org/wiki/Love_in_the_Time_of_Cholera\n", 
         "title": "The Divine Comedy"  
       },
       {
         "id": "4",
         "author": "Hans Christian Andersen", 
         "imageLink": "https://i.imgur.com/kampTc9.jpeg",
+        "link": "https://en.wikipedia.org/wiki/Fairy_Tales_Told_for_Children._First_Collection.\n",
         "title": "Fairy tales"
       },
       {
         "id": "5",
         "author": "Giovanni Boccaccio",
         "imageLink": "https://i.imgur.com/Rt9dcmH.mp4",
+        "link": "https://en.wikipedia.org/wiki/Love_in_the_Time_of_Cholera\n", 
         "title": "The Decameron"
        
       },
@@ -36,31 +41,37 @@
         "id": "6",
         "author": "Hans Christian Andersen",
         "imageLink": "https://i.imgur.com/kampTc9.jpeg",
+        "link": "https://en.wikipedia.org/wiki/Fairy_Tales_Told_for_Children._First_Collection.\n",
         "title": "Fairy tales"
       },
       {
         "id": "7",
         "author": "Hans Christian Andersen", 
         "imageLink": "https://i.imgur.com/P795i74.png",
+        "link": "https://en.wikipedia.org/wiki/Fairy_Tales_Told_for_Children._First_Collection.\n",
         "title": "Fairy tales"
       },
       {
         "id": "8",
         "author": "Samuel Beckett", 
-        "country": "Republic of Ireland",
         "imageLink": "https://i.imgur.com/7XMoGFl.gif",
+        "link": "https://en.wikipedia.org/wiki/Pride_and_Prejudice\n", 
         "title": "Molloy, Malone Dies, The Unnamable, the trilogy"
       },
       {
         "id": "9",
         "author": "Giovanni Boccaccio",
         "imageLink": "https://i.imgur.com/kampTc9.jpeg",
+        "link": "https://en.wikipedia.org/wiki/The_Decameron\n",  
         "title": "The Decameron"
       },
       {
         "id": "10",
-        "author": "Walt Whitman", 
-        "imageLink": "https://i.imgur.com/2MuTWFy.jpeg"         
+        "author": "Giovanni Boccaccio",
+        "imageLink": "https://i.imgur.com/Rt9dcmH.mp4",
+        "link": "https://en.wikipedia.org/wiki/Love_in_the_Time_of_Cholera\n", 
+        "title": "The Decameron"
+        
       }
 
     ]
