@@ -4,36 +4,36 @@
       {
         "id": "1",
         "author": "Giovanni Boccaccio",
-        "imageLink": "https://res.cloudinary.com/upwork-cloud/image/upload/c_scale,w_1000/v1693588922/catalog/1697660441269956608/y2iwm2ugw6dleiqpd1dt.jpg",
+        "imageLink": "https://i.pinimg.com/564x/2a/91/67/2a91674f75c0631a5cea50209f6893ba.jpg",
         "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n",    
-        "title": "The Decameron" 
+        "title": "Things fall apart" 
       },
       {
         "id": "2",
         "author": "Samuel Beckett", 
-        "imageLink": "https://m.media-amazon.com/images/I/41F61GM4VZL._SY385_.jpg",
+        "imageLink": "https://i.pinimg.com/564x/51/48/5b/51485b76d497a8ed6cb69bfa7e4c3863.jpg",
         "link": "https://en.wikipedia.org/wiki/Love_in_the_Time_of_Cholera\n",  
-        "title": "Molloy, Malone Dies, The Unnamable, the trilogy"
+        "title": "Love in the Time of Cholera"
       },
       {
         "id": "3",
         "author": "Dante Alighieri",
-        "imageLink": "https://i.imgur.com/SBck7A5.jpeg",
+        "imageLink": "https://i.pinimg.com/564x/56/54/d5/5654d5853d801659556984a690db1f18.jpg",
         "link": "https://en.wikipedia.org/wiki/Love_in_the_Time_of_Cholera\n", 
-        "title": "The Divine Comedy"  
+        "title": "Time of Cholera"  
       },
       {
         "id": "4",
         "author": "Hans Christian Andersen", 
-        "imageLink": "https://i.imgur.com/kampTc9.jpeg",
+        "imageLink": "https://i.pinimg.com/564x/81/b9/04/81b904c2b5ef904b00ab1472f2bff108.jpg",
         "link": "https://en.wikipedia.org/wiki/Fairy_Tales_Told_for_Children._First_Collection.\n",
-        "title": "Fairy tales"
+        "title": "Fairy"
       },
       {
         "id": "5",
         "author": "Giovanni Boccaccio",
-        "imageLink": "https://i.imgur.com/kampTc9.jpeg",
-        "link": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781804173442/the-decameron-9781804173442_hr.jpg", 
+        "imageLink": "https://i.pinimg.com/564x/30/43/50/304350942ca1c19fc627473b94d0d44c.jpg",
+        "link": "https://en.wikipedia.org/wiki/The_Decameron\n", 
         "title": "The Decameron"
        
       },
@@ -41,107 +41,107 @@
         "id": "6",
         "author": "Hans Christian Andersen",
         "imageLink": "https://i.imgur.com/kampTc9.jpeg",
-        "link": "https://en.wikipedia.org/wiki/Fairy_Tales_Told_for_Children._First_Collection.\n",
-        "title": "Fairy tales"
+        "link": "https://en.wikipedia.org/wiki/Monkey_Business",
+        "title": "monkey business"
       },
       {
         "id": "7",
         "author": "Hans Christian Andersen", 
-        "imageLink": "https://i.imgur.com/kampTc9.jpeg",
-        "link": "https://en.wikipedia.org/wiki/Fairy_Tales_Told_for_Children._First_Collection.\n",
-        "title": "Fairy tales"
+        "imageLink": "https://i.pinimg.com/564x/d8/94/53/d8945342cb150d72ff50c82e07179960.jpg",
+        "link": "https://en.wikipedia.org/wiki/Barrel",
+        "title": "Barlel of people"
       },
       {
         "id": "8",
         "author": "Samuel Beckett", 
-        "imageLink": "https://m.media-amazon.com/images/I/41F61GM4VZL._SY385_.jpg",
-        "link": "https://en.wikipedia.org/wiki/Pride_and_Prejudice\n", 
-        "title": "Molloy, Malone Dies, The Unnamable, the trilogy"
+        "imageLink": "https://i.pinimg.com/564x/66/cd/76/66cd766e3c1dd78617fac95dd5b65575.jpg",
+        "link": "https://en.wikipedia.org/wiki/Pride", 
+        "title": "Pride and Prejudice"
       },
       {
         "id": "9",
         "author": "Giovanni Boccaccio",
-        "imageLink": "https://i.imgur.com/kampTc9.jpeg",
-        "link": "https://en.wikipedia.org/wiki/The_Decameron\n",  
-        "title": "The Decameron"
+        "imageLink": "https://i.pinimg.com/564x/85/5b/1a/855b1af236cf0fcb08024cb626320949.jpg",
+        "link": "https://en.wikipedia.org/wiki/A_Family_Thing",  
+        "title": "The family thing"
       },
       {
         "id": "10",
         "author": "Giovanni Boccaccio",
-        "imageLink": "https://i.imgur.com/fQQ36GI.jpeg",
-        "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n",    
-        "title": "The Decameron" 
+        "imageLink": "https://i.pinimg.com/564x/80/ff/1d/80ff1d76c6fe3191dc5ae4b6f8716a66.jpg",
+        "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart",    
+        "title": "Things Fall Apart" 
       },
       {
         "id": "11",
         "author": "Samuel Beckett", 
         "imageLink": "https://m.media-amazon.com/images/I/41F61GM4VZL._SY385_.jpg",
-        "link": "https://en.wikipedia.org/wiki/Love_in_the_Time_of_Cholera\n",  
-        "title": "Molloy, Malone Dies, The Unnamable, the trilogy"
+        "link": "https://www.goodreads.com/book/show/35887193-the-perfect-mother",  
+        "title": "The perfect mother of molloy"
       },
       {
         "id": "12",
         "author": "Dante Alighieri",
-        "imageLink": "https://i.imgur.com/SBck7A5.jpeg",
-        "link": "https://en.wikipedia.org/wiki/Love_in_the_Time_of_Cholera\n", 
+        "imageLink": "https://i.pinimg.com/564x/82/69/23/826923d7f916963f44215fc40cf514e9.jpg",
+        "link": "https://en.wikipedia.org/wiki/Divine_Comedy", 
         "title": "The Divine Comedy"  
       },
       {
         "id": "13",
         "author": "Hans Christian Andersen", 
-        "imageLink": "https://i.imgur.com/kampTc9.jpeg",
-        "link": "https://en.wikipedia.org/wiki/Fairy_Tales_Told_for_Children._First_Collection.\n",
-        "title": "Fairy tales"
+        "imageLink": "https://i.pinimg.com/736x/ae/b9/ac/aeb9acb8c347d9bda9cbfd8bd7a3be4f.jpg",
+        "link": "https://en.wikipedia.org/wiki/I_Love_My_Dad",
+        "title": "Dad"
       },
       {
         "id": "14",
         "author": "Giovanni Boccaccio",
-        "imageLink": "https://i.imgur.com/P795i74.png",
-        "link": "https://en.wikipedia.org/wiki/Love_in_the_Time_of_Cholera\n", 
-        "title": "The Decameron"
+        "imageLink": "https://i.pinimg.com/564x/0a/22/5b/0a225b054c35bd7de0b566eab7751496.jpg",
+        "link": "https://en.wikipedia.org/wiki/Homeland_(TV_series)", 
+        "title": "Homeland"
        
       },
       {
         "id": "15",
         "author": "Hans Christian Andersen",
-        "imageLink": "https://i.imgur.com/kampTc9.jpeg",
+        "imageLink": "https://i.pinimg.com/736x/96/8c/fd/968cfd4a17111808a28c244b6e93dab9.jpg",
         "link": "https://en.wikipedia.org/wiki/Fairy_Tales_Told_for_Children._First_Collection.\n",
-        "title": "Fairy tales"
+        "title": "tales"
       },
       {
         "id": "16",
         "author": "Hans Christian Andersen", 
-        "imageLink": "https://i.imgur.com/P795i74.png",
-        "link": "https://en.wikipedia.org/wiki/Fairy_Tales_Told_for_Children._First_Collection.\n",
-        "title": "Fairy tales"
+        "imageLink": "https://i.pinimg.com/564x/4e/04/fd/4e04fdf6dfff5e903cfd784e552773d5.jpg",
+        "link": "https://en.wikipedia.org/wiki/Fair_Deal",
+        "title": "Fair deal "
       },
       {
         "id": "17",
         "author": "Samuel Beckett", 
         "imageLink": "https://m.media-amazon.com/images/I/41F61GM4VZL._SY385_.jpg",
-        "link": "https://en.wikipedia.org/wiki/Pride_and_Prejudice\n", 
-        "title": "Molloy, Malone Dies, The Unnamable, the trilogy"
+        "link": "https://en.wikipedia.org/wiki/Prejudice", 
+        "title": "Pride and Prejudice"
       },
       {
         "id": "18",
         "author": "Giovanni Boccaccio",
-        "imageLink": "https://i.imgur.com/kampTc9.jpeg",
+        "imageLink": "https://i.pinimg.com/736x/13/2d/83/132d831a21f348172b099d5f823cd1b3.jpg",
         "link": "https://en.wikipedia.org/wiki/The_Decameron\n",  
-        "title": "The Decameron"
+        "title": "Decameron"
       },
       {
         "id": "19",
         "author": "Giovanni Boccaccio",
-        "imageLink": "https://i.imgur.com/fQQ36GI.jpeg",
-        "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n",    
-        "title": "The Decameron" 
+        "imageLink": "https://i.pinimg.com/564x/47/35/5d/47355d5207f260ba26805304f3e8853a.jpg",
+        "link": "https://en.wikipedia.org/wiki/Mother",    
+        "title": "mother" 
       },
       {
         "id": "20",
         "author": "Samuel Beckett", 
-        "imageLink": "https://m.media-amazon.com/images/I/41F61GM4VZL._SY385_.jpg",
+        "imageLink": "https://i.pinimg.com/736x/48/42/38/48423844b59262fcccdd7ad4d52a76c2.jpg",
         "link": "https://en.wikipedia.org/wiki/Love_in_the_Time_of_Cholera\n",  
-        "title": "Molloy, Malone Dies, The Unnamable, the trilogy"
+        "title": "Love "
       }
       
     ]
