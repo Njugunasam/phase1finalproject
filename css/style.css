@@ -1,1 +1,36 @@
 @import url("bootstrap.css");
+.star-rating {
+    font-size: 20px;
+}
+
+.star.selected {
+    color: yellow;
+}
+
+.list-group-item {
+    background-color: #f4f4f4;
+    border: none;
+}
+
+.list-group-item:hover {
+    background-color: #e8e8e8;
+}
+
+.search-bar {
+    background-color: #e8e8e8;
+    border: none;
+}
+
+body {
+    background-color: #f9f9f9;
+}
+
+
+h1 {
+    text-align: center;
+}
+
+.col-md-6 {
+    margin: 0 auto;
+}
+

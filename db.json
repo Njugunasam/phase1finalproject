@@ -4,7 +4,7 @@
       {
         "id": "1",
         "author": "Giovanni Boccaccio",
-        "imageLink": "https://i.imgur.com/fQQ36GI.jpeg",
+        "imageLink": "https://res.cloudinary.com/upwork-cloud/image/upload/c_scale,w_1000/v1693588922/catalog/1697660441269956608/y2iwm2ugw6dleiqpd1dt.jpg",
         "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n",    
         "title": "The Decameron" 
       },
@@ -32,8 +32,8 @@
       {
         "id": "5",
         "author": "Giovanni Boccaccio",
-        "imageLink": "https://i.imgur.com/Rt9dcmH.mp4",
-        "link": "https://en.wikipedia.org/wiki/Love_in_the_Time_of_Cholera\n", 
+        "imageLink": "https://i.imgur.com/kampTc9.jpeg",
+        "link": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781804173442/the-decameron-9781804173442_hr.jpg", 
         "title": "The Decameron"
        
       },
@@ -47,7 +47,7 @@
       {
         "id": "7",
         "author": "Hans Christian Andersen", 
-        "imageLink": "https://i.imgur.com/P795i74.png",
+        "imageLink": "https://i.imgur.com/kampTc9.jpeg",
         "link": "https://en.wikipedia.org/wiki/Fairy_Tales_Told_for_Children._First_Collection.\n",
         "title": "Fairy tales"
       },
@@ -96,7 +96,7 @@
       {
         "id": "14",
         "author": "Giovanni Boccaccio",
-        "imageLink": "https://i.imgur.com/Rt9dcmH.mp4",
+        "imageLink": "https://i.imgur.com/P795i74.png",
         "link": "https://en.wikipedia.org/wiki/Love_in_the_Time_of_Cholera\n", 
         "title": "The Decameron"
        
