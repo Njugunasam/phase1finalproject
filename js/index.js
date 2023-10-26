@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const searchInput = document.getElementById('searchInput');
     const apiUrl = 'https://my-json-server.typicode.com/Njugunasam/phase1finalproject/books';
 
-    // Function to fetch book data and display it
+    // Function to fetch data and dispalying the books
     function fetchBooks() {
         fetch(apiUrl)
             .then(response => response.json())
@@ -19,6 +19,7 @@ document.addEventListener('DOMContentLoaded', function() {
                         <div class="star-rating" data-title="${book.title}">
                             ${createStarRating(book.title)}
                         </div>
+                        <button class="like-button" data-title="${book.title}">Like</button>
                     `;
                     bookList.appendChild(listItem);
                 });
@@ -26,49 +27,41 @@ document.addEventListener('DOMContentLoaded', function() {
             .catch(error => console.error('Error fetching data: ' + error));
     }
 
-    // Function to create the 5-star rating
+    // Function to create the star rating
     function createStarRating(bookTitle) {
-        const starRating = `
-            <span class="star" data-title="${bookTitle}">★</span>
-            <span class="star" data-title="${bookTitle}">★</span>
-            <span class="star" data-title="${bookTitle}">★</span>
-            <span class="star" data-title="${bookTitle}">★</span>
-            <span class="star" data-title="${bookTitle}">★</span>
-        `;
+        const starRating = Array(5)
+            .fill('<span class="star" data-title="${bookTitle}">★</span>')
+            .join('');
+
         return starRating;
     }
 
-    // Add event listener to toggle star ratings and change cursor to pointer
-    bookList.addEventListener('click', function(e) {
+    // Add event listener to toggle star ratings
+    bookList.addEventListener('click', function (e) {
         if (e.target.classList.contains('star')) {
             const title = e.target.getAttribute('data-title');
             const stars = document.querySelectorAll(`.star[data-title="${title}`);
-            
+
             const clickedIndex = Array.from(stars).indexOf(e.target);
 
             stars.forEach((star, index) => {
                 if (index <= clickedIndex) {
                     star.classList.add('selected');
-                    star.style.color = 'yellow';
                 } else {
                     star.classList.remove('selected');
-                    star.style.color = '';
                 }
             });
-
-
         }
-    });
 
-    // Add cursor pointer to star ratings and filter books on search
-    bookList.addEventListener('mouseover', function(e) {
-        if (e.target.classList.contains('star')) {
-            e.target.style.cursor = 'pointer';
+        // Like button functionality
+        if (e.target.classList.contains('like-button')) {
+            const title = e.target.getAttribute('data-title');
+            alert(`You liked the book: ${title}`);
         }
     });
 
     // Add event listener for the search input
-    searchInput.addEventListener('input', function() {
+    searchInput.addEventListener('input', function () {
         const searchValue = searchInput.value.toLowerCase();
         const bookItems = bookList.querySelectorAll('li');
 
